@@ -19,7 +19,7 @@ Clone:
 git clone https://github.com/bishwofic/MiuiCamera -b tiramisu vendor/MiuiCamera
 ```
   
-Add this in your <i>device.mk</i> file.
+Add this in your <i>romname_devicename.mk</i> file.
 
 
 ```bash
